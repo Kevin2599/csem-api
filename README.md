@@ -5,6 +5,7 @@
 This API is designed for modelling of marine CSEM data in time and frequency domain on a remote cluster/cloud service. It may be used for feasibility and interpretation work on EM data with Jupyter Notebook.  
 
 A 3D CSEM online modelling service supporting the API is available at https://api.geotech.no and provided by [GeoContrast AS](http://www.geocontrast.no) on AS-IS basis during trial period. You may request a free trial API key by sending an email with a short description of your use case to contact form at http://www.geocontrast.no 
+Run the tutorial now in your browser: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geocontrast/csem-api/master)
 
 ## Current features provided by https://api.geotech.no :
 
